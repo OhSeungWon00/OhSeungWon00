@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Full Stack Developer 오승원
+# 👋 안녕하세요, 풀스택 개발자 오승원입니다.
 
 ## 💼 About Me
 - 🔭 I’m currently working on: [당신의 프로젝트나 직업]
