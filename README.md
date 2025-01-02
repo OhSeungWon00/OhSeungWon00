@@ -20,13 +20,13 @@
 ## 🛠️ **Projects**  
 
 ### 📌 **핏넥서스[정규 프로젝트]**  
-- **기술 스택:** Java, Spring Boot, MySQL  
+- **기술 스택 :** Java, Spring Boot, MySQL  
 - **주제 :** 헬스장 관리 및 PT예약 시스템  
 - [핏넥서스 GitHub 링크](https://github.com/OhSeungWon00/MSA9_GYM.git)
 
 
 ### 📌 **흑백요리사[미니 프로젝트]**  
-- **기술 스택:** React, Flutter, Node.js  
+- **기술 스택 :** React, Flutter, Node.js  
 - **주제 :** 맛집 평점 및 리뷰 관리 시스템  
 - [흑백요리사 GitHub 링크](https://github.com/OhSeungWon00/MSA9_Food.git)
 
