@@ -28,6 +28,13 @@
 - **설명:** QR코드 스캔을 통한 실시간 출석 관리 시스템 구축  
 
 ---
+## 📊 **GitHub Stats**  
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohseungwon00&show_icons=true&locale=en&layout=compact" alt="ohseungwon00" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ohseungwon00&show_icons=true&locale=en" alt="ohseungwon00" /></p>
+
+---
+
 
 ## 🚀 **Languages and Tools:**  
 <p align="left"> 
@@ -46,12 +53,7 @@
 
 ---
 
-## 📊 **GitHub Stats**  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohseungwon00&show_icons=true&locale=en&layout=compact" alt="ohseungwon00" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ohseungwon00&show_icons=true&locale=en" alt="ohseungwon00" /></p>
-
----
 
 
 ## 📞 **Contact Me**  
@@ -60,7 +62,4 @@
 - 📱 **Phone:** 010-5314-8766  
 - 💼 **LinkedIn:** [LinkedIn 프로필](https://www.linkedin.com/)  
 
----
 
-⭐️ **"꾸준함은 최고의 기술이다"** ⭐️  
-**Let's build something amazing together! 🚀**  
