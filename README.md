@@ -62,11 +62,6 @@
 
 ---
 
-## 📊 **GitHub Contribution Graph**  
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ohseungwon00&theme=dracula)
-
----
 
 ## 📞 **Contact Me**  
 
