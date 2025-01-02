@@ -60,6 +60,6 @@
 
 - 📧 **Email:** [ajtwodtmdnjs@gmail.com](mailto:ajtwodtmdnjs@gmail.com)  
 - 📱 **Phone:** 010-5314-8766  
-- 💼 **LinkedIn:** [LinkedIn 프로필](https://www.linkedin.com/)  
+
 
 
