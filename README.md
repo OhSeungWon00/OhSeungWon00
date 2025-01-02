@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [당신의 이름]!
+# 👋 Hi, I'm Full Stack Developer 오승원
 
 ## 💼 About Me
 - 🔭 I’m currently working on: [당신의 프로젝트나 직업]
