@@ -27,8 +27,9 @@
 
 ### 📌 **흑백요리사**  
 - **기술 스택:** React, Flutter, Node.js  
-- **설명:** 맛집 평점 및 리뷰 관리 시스템
-- 
+- **설명:** 맛집 평점 및 리뷰 관리 시스템  
+- [흑백요리사 GitHub 링크](https://github.com/OhSeungWon00/MSA9_Food.git)
+
 
 ---
 ## 📊 **GitHub Stats**  
