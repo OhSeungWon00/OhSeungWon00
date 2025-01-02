@@ -19,13 +19,13 @@
 
 ## 🛠️ **Projects**  
 
-### 📌 **Online Shopping Platform**  
+### 📌 **핏넥서스**  
 - **기술 스택:** Java, Spring Boot, MySQL  
-- **설명:** 사용자 인증 및 결제 기능을 포함한 쇼핑몰 플랫폼 개발  
+- **설명:** 헬스장 관리 및 PT예약 시스템
 
-### 📌 **Attendance Management System**  
+### 📌 **흑백요리사**  
 - **기술 스택:** React, Flutter, Node.js  
-- **설명:** QR코드 스캔을 통한 실시간 출석 관리 시스템 구축  
+- **설명:** 맛집 평점 및 리뷰 관리 시스템
 
 ---
 ## 📊 **GitHub Stats**  
