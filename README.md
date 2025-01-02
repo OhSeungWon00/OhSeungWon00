@@ -13,7 +13,7 @@
 ---
 
 ## 📂 **Portfolio**  
-- [📝 포트폴리오 페이지](https://www.notion.so/168902bdb12f8029a357fa77bbedf9f4?pvs=21)  
+- [📝 포트폴리오 페이지](https://chestnut-blinker-ca6.notion.site/167902bdb12f80828036d3d0221a6414?pvs=4)  
 
 ---
 
