@@ -1,91 +1,15 @@
-# 📝 **오승원 포트폴리오**
+<h1 align="center">Hi 👋, I'm 오승원</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-![이력서 사진](https://prod-files-secure.s3.us-west-2.amazonaws.com/8cd794c0-c633-4008-b289-af6deeea8c4d/c565d892-07f6-41c3-9227-77902ee22a91/%EC%9D%B4%EB%A0%A5%EC%84%9C_%EC%82%AC%EC%A7%84.jpg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ohseungwon00&label=Profile%20views&color=0e75b6&style=flat" alt="ohseungwon00" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ohseungwon00" alt="ohseungwon00" /></a> </p>
 
-## 👋 **안녕하세요. 웹/앱 풀스택 개발자 오승원입니다.**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-대학교에서 전공과목이었던 **C언어**를 통해 처음 프로그래밍을 접하였고, 개발자의 꿈을 구체적으로 실현하기 위해  
-**정보처리기사 자격증 취득**과 더불어  
-**더조은컴퓨터아카데미**에서  
-**MSA기반 플러터(Dart)**, **리액트(React) 활용 프론트엔드**, **자바(Java) 활용 스프링부트(Spring Boot)** 백엔드 풀스택 웹(앱) 개발 교육을 수료 중인 개발자입니다.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
----
-
-# ✨ **저는 이런 사람입니다**
-
-### **1️⃣ 긍정적인 에너지**
-- 교육 과정 동안 팀원들과 **긍정적인 관계**를 유지했습니다.
-
-### **2️⃣ 지각·결근 제로**
-- 교육 기간 **6개월간 단 한 번도 지각이나 결석 없이 출석률 100%**를 유지했습니다.
-
-### **3️⃣ 꾸준함과 성장**
-- 교육 과정을 성실히 이수하면서 동시에 **정보처리기사 자격증을 취득**하여 실력을 증명했습니다.
-
----
-
-# 🔎 **Profile**
-
-## 🏫 **학력**
-- **부천대학교 전자과 졸업** *(2021.03 ~ 2023.02)*  
-
-## ✏️ **교육**
-- **더조은 아카데미** *(2024.08 ~ 2025.02)*  
-   - MSA기반 플러터(Dart) 활용 자바(Java) 프론트엔드 및 백엔드 풀스택 웹(앱) 개발 교육과정 진행  
-
-## 👨‍💻 **경력**
-- **앰코테크놀로지코리아(주) 송도사업장** *(2023.06 ~ 2024.07)*  
-   - 공정 품질 및 Yield 향상  
-   - 반도체 TEST 장비 유지보수  
-   - 반도체 제품 Testing  
-   - 장비 프로세스 개선 및 장비 가동률 향상  
-
-## 🪪 **자격증**
-- 🚗 **2종보통운전면허** *(2021.08)*  
-- 🧑‍🤝‍🧑 **사회복지사 2급** *(2023.08)*  
-- 💻 **컴퓨터활용능력 2급** *(2023.05)*  
-- 🎨 **웹디자인기능사 (필기합격)** *(2024.10)*  
-- 📚 **정보처리기사** *(2024.12)*  
-
----
-
-# ✨ **Skills**
-
-### **📌 FrontEnd**
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **React**
-- **Flutter**
-
-### **📌 BackEnd**
-- **Java**
-- **JSP**
-- **Spring**
-- **SpringBoot**
-- **Node.js**
-- **MySQL**
-- **ORACLE**
-
-### **📌 Tools**
-- **VSCODE**
-- **Git**
-- **Figma**
-- **Eclipse**
-
----
-
-# 📓 **Projects**
-- [**제목 없음**](https://www.notion.so/168902bdb12f8029a357fa77bbedf9f4?pvs=21)
-
----
-
-# 👋 **Contact**
-- ✉️ **Email:** [ajtwodtmdnjs@gmail.com](mailto:ajtwodtmdnjs@gmail.com)  
-- 📱 **Phone:** 010-5314-8766  
-
----
-
-⭐️ **꾸준히 성장하며 더 나은 개발자로 나아가겠습니다! 감사합니다.** 🚀
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ohseungwon00&show_icons=true&locale=en" alt="ohseungwon00" /></p>
