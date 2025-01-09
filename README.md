@@ -8,7 +8,7 @@
 - 🛠️ **Skills:** Java, Spring Boot, Flutter, React 등  
 - 🎯 **Goals:** 사용자 친화적이고 안정적인 서비스를 개발하는 풀스택 개발자  
 - 📚 **Learning:** MSA기반 자바 프론트엔드 백엔드 풀스택 웹(앱) 개발
-- ⚡ **Fun Fact:** 프로젝트의 작은 버그를 잡아낼 때 가장 큰 성취감을 느낍니다!  
+
 
 ---
 
