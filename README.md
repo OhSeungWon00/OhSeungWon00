@@ -23,6 +23,11 @@
 - **주제 :** 헬스장 관리 및 PT예약 시스템  
 - [핏넥서스 GitHub 링크](https://github.com/OhSeungWon00/MSA9_GYM.git)
 
+### 📌 **핏넥서스_React[미니 프로젝트]**  
+- **기술 스택 :** React, RestAPI, Swagger, JWT, Java, Spring Boot, HTML, CSS, JavaScript, MySQL  
+- **주제 :** 헬스장 관리 및 PT예약 시스템 => REACT + REST API 전환 프로젝트
+- [핏넥서스 GitHub 링크](https://github.com/OhSeungWon00/MSA9_GYM_REST.git)
+
 
 ### 📌 **흑백요리사[미니 프로젝트]**  
 - **기술 스택 :** Java, JSP, HTML, CSS, JavaScript, MySQL
