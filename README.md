@@ -5,7 +5,7 @@
 
 ## 👨‍💻 **About Me**  
 - 🎓 **Education:** 부천대학교 전자과 졸업 (2021.03 ~ 2023.02), 정보처리기사 자격증 보유
-- 🛠️ **Skills:** Java, Spring Boot, Flutter, React 등  
+- 🛠️ **Skills:** Java, Spring Boot, Flutter, React, MySQL등  
 - 📚 **Learning:** MSA기반 자바 프론트엔드 백엔드 풀스택 웹(앱) 개발
 
 
