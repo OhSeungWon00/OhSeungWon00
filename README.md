@@ -38,7 +38,8 @@
 ---
 ## 📊 **GitHub Stats**  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohseungwon00&show_icons=true&locale=en&layout=compact" alt="ohseungwon00" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ohseungwon00&show_icons=true&locale=en" alt="ohseungwon00" /></p>
 
 
 ---
